@@ -1,5 +1,4 @@
 package com.company;
-import java.io.CharArrayReader;
 import java.util.Scanner;
 
 public class Main {
